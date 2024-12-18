@@ -1,1 +1,2 @@
 # Disease-Prediction-
+A disease prediction system using Streamlit takes symptoms as input and predicts potential diseases based on a dataset stored in an Excel file. The system is built in Python, leveraging libraries like pandas for data manipulation and scikit-learn for training machine learning models. Streamlit provides an interactive user interface, making it simple for users to enter symptoms and view predictions. The application runs locally via Anaconda, ensuring seamless environment setup and execution
